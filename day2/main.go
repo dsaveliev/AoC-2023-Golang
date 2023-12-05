@@ -10,9 +10,7 @@ import (
 	"strings"
 )
 
-const (
-	filename = "day2/input.txt"
-)
+const filename = "day2/input.txt"
 
 var (
 	r     = regexp.MustCompile(`^Game (\d+): (.*)$`)
