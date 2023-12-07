@@ -8,3 +8,4 @@ https://adventofcode.com/2023/about
 * [Day 4: Scratchcards](day4/README.md)
 * [Day 5: If You Give A Seed A Fertilizer](day5/README.md)
 * [Day 6: Wait For It ](day6/README.md)
+* [Day 7: Camel Cards](day7/README.md)
